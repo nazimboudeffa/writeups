@@ -22,7 +22,7 @@ approche
 
 se connecter avec netcat sur le port 8080
 
-`nc -lnvp`
+`nc -lnvp 8080`
 
 trouver le mdp admin qui devrait s'afficher dans le nc en simulant la connexion admin
 
