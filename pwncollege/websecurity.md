@@ -19,9 +19,11 @@ le payload
 approche
 
 se connecter avec netcat sur le port 8080
+
 `nc -lnvp`
 
 trouver le mdp admin qui devrait s'afficher en executant 
+
 `/challenge/victim http://challenge.localhost`
 
 se connecter en admin et du coup trouver le flag
