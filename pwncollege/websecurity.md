@@ -24,7 +24,7 @@ se connecter avec netcat sur le port 8080
 
 `nc -lnvp`
 
-trouver le mdp admin qui devrait s'afficher dans le nc en executant 
+trouver le mdp admin qui devrait s'afficher dans le nc en simulant la connexion admin
 
 `/challenge/victim http://challenge.localhost`
 
