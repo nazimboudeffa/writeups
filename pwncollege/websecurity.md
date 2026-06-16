@@ -1,3 +1,5 @@
+https://pwn.college/intro-to-cybersecurity/web-security/
+
 # XSS7
 
 le payload
